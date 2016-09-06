@@ -1,7 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Chappers, a .\n![Chappers](https://https://media.licdn.com/mpr/mpr/shrink_100_100/p/1/000/1e1/1cc/1800b98.jpg)\nWant to know more about bots or learn about Chappers? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Chappers](postback:learn_about_chappers) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you hit up Chappers Bot! Do you want to tell chappers that you're talking to his bot? %[Tell him](postback:twitter)",
-    //"TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Chappers](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Oooh Nice, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, ChappersBot is back."
