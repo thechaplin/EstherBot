@@ -1,6 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Chappers, a Business Analyst @gocompare, Guru @MonWheelers and one of the @Dozzina founders.\n![Chappers](https://pbs.twimg.com/profile_images/581613472850546688/SNEHyZZE_400x400.jpg)\nWant to know more about bots or learn about Chappers? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Chappers](postback:learn_about_chappers) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you hit up Chappers Bot! Do you want to tell chappers that you're talking to his bot? %[Tell him](postback:twitter)",
+    "HELLO": "Hello, I'm so glad you hit up Chappers Bot! Do you want to tell chappers that you're talking to his bot? %[Tell him](postback:twitter)",
+    "HEY": "Hey, I'm so glad you hit up Chappers Bot! Do you want to tell chappers that you're talking to his bot? %[Tell him](postback:twitter)",
     "I LOVE YOU": "Oooh Nice, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, ChappersBot is back."
