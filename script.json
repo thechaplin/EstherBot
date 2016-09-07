@@ -5,5 +5,6 @@
     "HI": "Hello, I'm so glad you hit up Chappers Bot! Do you want to tell chappers that you're talking to his bot? %[Tell him](postback:twitter)",
     "I LOVE YOU": "Oooh Nice, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, ChappersBot is back."
+    "DISCONNECT": "Roger that, ChappersBot is back.",
+    "JAMES": "Hi James, yeah, chappers mentioned you are a bellend."
 }
